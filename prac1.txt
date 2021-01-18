@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkdkdkdkdkddk
 
 
 
 fjfjfjjffjjf
+=======
+kdkdkdkdkddk
+
+
+
+ffffffffffffffffffffffffffffffffff
+>>>>>>> pract2
